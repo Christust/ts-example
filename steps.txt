@@ -1,0 +1,15 @@
+
+@types/node los tipado de node
+ts-node para ejecutar node sin compilar
+nodemon refrescar
+typescript el lenguaje
+
+npm i --save-dev @types/node
+        nodemon ts-node
+        typescript
+
+
+
+
+npx ntsc --init --rootDir src --outDir build --esModuleInterop --resolveJsonModule
+        --lib es6 --module commonJs --allowjs true --noImplicitAny true
